@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ElementaryGNOME
+Comment=An Elementary-style GTK+ and GNOME-Shell theme
+
+Encoding=UTF-8
+
+Name[en_US]=ElementaryGNOME
+
+[X-GNOME-Metatheme]
+GtkTheme=ElementaryGNOME
+MetacityTheme=ElementaryGNOME
+IconTheme=Numix-Circle
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize:
