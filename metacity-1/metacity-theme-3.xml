@@ -2,9 +2,10 @@
 <metacity_theme>
 <info>
 	<name>ElementaryGNOME</name>
+	<author>FishDev</author>
 	<copyright>GPL-3.0+</copyright>
-	<date>16 August 2014</date>
-	<description>ElementaryGNOME Mutter Theme</description>
+	<date>19 Aug 2014</date>
+	<description>ElementaryGNOME Metacity Theme</description>
 </info>
 
 <!-- ::: CONSTANTS ::: -->
